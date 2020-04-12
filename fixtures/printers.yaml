@@ -1,0 +1,42 @@
+- model: app.printer
+  pk: 1
+  fields:
+    name: Printer C1
+    api_key: 837aa44c70cf8333c5697cbbe2982b12
+    check_type: client
+    point_id: 1
+- model: app.printer
+  pk: 2
+  fields:
+    name: Printer C2
+    api_key: 42ea342a6188cca22f60229089f95d93
+    check_type: client
+    point_id: 2
+- model: app.printer
+  pk: 3
+  fields:
+    name: Printer C3
+    api_key: 28dc9bb4cb98de23608a5bcf5799f195
+    check_type: client
+    point_id: 3
+- model: app.printer
+  pk: 4
+  fields:
+    name: Printer K1
+    api_key: b9039801d01a8508008bea060fce3447
+    check_type: kitchen
+    point_id: 1
+- model: app.printer
+  pk: 5
+  fields:
+    name: Printer K2
+    api_key: 3a4a955e2ccf69e2f9b5c41b6b6dff4f
+    check_type: kitchen
+    point_id: 2
+- model: app.printer
+  pk: 6
+  fields:
+    name: Printer K3
+    api_key: 217ee0d0fadeda18fb648d26b732a96d
+    check_type: kitchen
+    point_id: 3
